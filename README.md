@@ -122,5 +122,6 @@ Power BI employed for creating visually appealing and interactive dashboards for
 
 ## Dashboard 
 
-![image](https://github.com/YMMSSH/Business_Reviews_Pipeline/assets/55538499/1e6f236f-0064-4840-b35e-266c8d7b4a48)
+![image](https://github.com/YMMSSH/Business_Reviews_Pipeline/assets/55538499/e02c296e-2a8e-4f74-a905-fec42f2db481)
+
 
