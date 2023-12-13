@@ -8,6 +8,8 @@ The Yelp Business Review Data Pipeline is a comprehensive solution for processin
 ![image](https://github.com/YMMSSH/Business_Reviews_Pipeline/assets/55538499/e8ebb426-2fca-4f7c-a8f0-e97696c5463f)
 
 
+
+
 ## Technology Stack
 
 Python
@@ -18,6 +20,7 @@ AWS Lambda
 Power BI
 Introduction
 Our big data project revolves around processing and analyzing Yelp business review data. The pipeline handles real-time streaming, CDC, daily batch processing, and data visualization. The key data sources include three main tables from Yelp's dataset: Business, Reviews, and Users, providing valuable information about businesses, customer reviews, and user details.
+
 
 ## Key Components
 
