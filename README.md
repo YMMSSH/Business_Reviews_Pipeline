@@ -18,11 +18,13 @@ AWS services (DynamoDB, S3, Redshift)
 PySpark
 AWS Lambda
 Power BI
-Introduction
+
+
+## Introduction
 Our big data project revolves around processing and analyzing Yelp business review data. The pipeline handles real-time streaming, CDC, daily batch processing, and data visualization. The key data sources include three main tables from Yelp's dataset: Business, Reviews, and Users, providing valuable information about businesses, customer reviews, and user details.
 
 
-## Key Components
+### Key Components
 
 ## Kafka on Premise
 
