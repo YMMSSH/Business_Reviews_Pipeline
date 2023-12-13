@@ -4,6 +4,10 @@
 
 The Yelp Business Review Data Pipeline is a comprehensive solution for processing and analyzing Yelp business review data. This end-to-end data pipeline integrates various technologies, including Python, Kafka, AWS services (DynamoDB, S3, Redshift), PySpark, AWS Lambda, and Power BI. The project enables real-time streaming, change data capture (CDC), daily batch processing, and data visualization to gain insights into customer sentiment, business performance, and industry trends.
 
+##   Project Pipeline
+![image](https://github.com/YMMSSH/Business_Reviews_Pipeline/assets/55538499/e8ebb426-2fca-4f7c-a8f0-e97696c5463f)
+
+
 ## Technology Stack
 
 Python
