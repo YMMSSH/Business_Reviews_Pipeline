@@ -119,3 +119,8 @@ Utilized S3 for efficient daily batch processing, ensuring data is optimized for
 ### Data Visualization
 
 Power BI employed for creating visually appealing and interactive dashboards for easy data exploration and analysis.
+
+## Dashboard 
+
+![image](https://github.com/YMMSSH/Business_Reviews_Pipeline/assets/55538499/1e6f236f-0064-4840-b35e-266c8d7b4a48)
+
