@@ -13,10 +13,15 @@ The Yelp Business Review Data Pipeline is a comprehensive solution for processin
 ## Technology Stack
 
 Python
+
 Kafka
+
 AWS services (DynamoDB, S3, Redshift)
+
 PySpark
+
 AWS Lambda
+
 Power BI
 
 
